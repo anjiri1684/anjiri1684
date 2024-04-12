@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Anjiri</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjiri1684" alt="anjiri1684" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anjirivincent" target="blank"><img src="https://img.shields.io/twitter/follow/anjirivincent?logo=twitter&style=for-the-badge" alt="anjirivincent" /></a> </p>
 
 - 🔭 I’m currently working on **Chatgpt clone**
