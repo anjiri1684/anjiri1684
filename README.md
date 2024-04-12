@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there ...<p style ={color: "blue"}>I'm Vincent Anjiri</p>
 
-<!--
-**anjiri1684/anjiri1684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently improving my frontend skills
-- 🌱 I’m currently learning Fullstack Development
-- 👯 I’m looking to collaborate on fullstack project
-- 🤔 I’m looking for help with nodejs
-- 💬 Ask me about Frontend
+- 🔭 I’m currently building chatgpt clone
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on javascript projects
+- 🤔 I’m looking for help with Golang
+- 💬 Ask me about Javascript, Reactjs, nextjs, React native and Flutter
 - 📫 How to reach me: vincentanjiri12@gmail.com
-- 😄 Pronouns: Vincent 
-- ⚡ Fun fact: i don't sleep when i have a bug to fix😂😂
+- 😄 Pronouns: Him/He 
+- ⚡ Fun fact: I love learning new skills during my free time
 
