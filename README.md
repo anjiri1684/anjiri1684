@@ -1,4 +1,4 @@
-### Hi there ...<p style ={color: "blue"}>I'm Vincent Anjiri</p>
+### Hi there ...I'm Vincent Anjiri
 
 - 🔭 I’m currently building chatgpt clone
 - 🌱 I’m currently learning Python
