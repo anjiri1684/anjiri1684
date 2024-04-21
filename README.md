@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjirivincent" target="blank"><img src="https://img.shields.io/twitter/follow/anjirivincent?logo=twitter&style=for-the-badge" alt="anjirivincent" /></a> </p>
 
-- 🔭 I’m currently working on **Chatgpt clone**
+- 🔭 I’m currently working on **SaaS **
 
 - 🌱 I’m currently learning **python**
 
