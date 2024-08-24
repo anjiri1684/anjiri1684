@@ -7,17 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/anjirivincent" target="blank"><img src="https://img.shields.io/twitter/follow/anjirivincent?logo=twitter&style=for-the-badge" alt="anjirivincent" /></a> </p>
 
-- 🔭 I’m currently working on **improving my reactjs skills**
+Hi there, I'm Vincent Anjiri 👋
+🌟 Welcome to My GitHub Profile!
+I’m a passionate software developer with a strong focus on front-end development and mobile app creation. I love exploring new technologies and continuously improving my skills to build efficient and scalable applications.
 
-- 🌱 I’m currently learning **Flutter**
+🚀 About Me
+🌱 Currently Improving: ReactJS skills and diving deeper into advanced concepts.
+🔭 Currently Learning: Flutter to expand my mobile app development expertise.
+🤝 Looking for Help With: Mobile app development projects, collaborations, and innovative ideas.
+💼 My Projects
+Check out all of my projects and contributions on GitHub:
 
-- 🤝 I’m looking for help with **Mobile app development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anjiri1684](https://github.com/anjiri1684)
-
-- 💬 Ask me about **react,Flutter,Vue,Nextjs,Nodejs,React Native**
-
-- 📫 How to reach me **vincentanjiri12@gmail.com**
+🛠️ Technologies & Tools
+Languages & Frameworks: ReactJS, Flutter, Vue.js, Next.js, Node.js, React Native
+Tools & Platforms: Git, GitHub, VS Code, Firebase, REST APIs
+💬 Ask Me About
+Front-end Development: React, Vue, Next.js
+Mobile App Development: Flutter, React Native
+Back-end Development: Node.js, Express
+📫 How to Reach Me
+Feel free to reach out to me via email:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
