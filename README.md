@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Anjiri</h1>
-<h3 align="center">A passionate frontend deI’m a passionate software developer with a strong focus on front-end development and mobile app creation. I love exploring new technologies and continuously improving my skills to build efficient and scalable applications.veloper from India</h3>
+<h3 align="center">A passionate frontend developer I’m a passionate software developer with a strong focus on front-end development and mobile app creation. I love exploring new technologies and continuously improving my skills to build efficient and scalable applications.veloper from India</h3>
 
 <p align="left"> <a href="https://twitter.com/anjirivincent" target="blank"><img src="https://img.shields.io/twitter/follow/anjirivincent?logo=twitter&style=for-the-badge" alt="anjirivincent" /></a> </p>
 
