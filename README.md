@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mobile app development projects, collaborations, and innovative ideas.**
 
-- 👨‍💻 All of my projects are available at [Check out all of my projects and contributions on GitHub:](Check out all of my projects and contributions on GitHub:)
+- 👨‍💻 All of my projects are available at https://github.com/anjiri1684 :)
 
 - 💬 Ask me about **Mobile app development projects, collaborations, and innovative ideas. Mobile App Development: Flutter, React Native. Back-end Development: Node.js, Express**
 
