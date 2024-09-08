@@ -16,7 +16,7 @@
  
 <h3 align="center">Connect with me: <p>
 <a href="https://mobile.twitter.com/?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rodgers-omondi-308b42148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/\" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/r/" height="30" width="40" /></a>
 </p>
 </h3>
 
@@ -26,14 +26,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/omondi8399"><img alt="Rodgers' Github Stats" src="https://github-readme-stats.vercel.app/api?username=omondi8399&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+      <a href="https://github.com/anjiri1684"><img alt="anjiri' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anjiri1684&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
     </td>
     <td>
-       <a href="http://www.github.com/omondi8399"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omondi8399&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/anjiri1684"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anjiri1684&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     </td>
     <td>
-      <a align="center" href="https://github.com/omondi8399"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omondi8399&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a align="center" href="https://github.com/anjiri1684"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjiri1684&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
   <tr>
