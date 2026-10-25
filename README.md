@@ -1,157 +1,93 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Software Engineer && Team Manager
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+# Hi, I'm Vincent 👋
 
-<p align="center">
-  <img src="https://github.com/anjiri1684/anjiri1684/blob/main/Logo.gif" />
-</p>
+### Software Engineer | Fintech Builder | Backend & Systems Architecture
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;3+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
-</p>
+I build software that solves real-world problems, with a focus on **fintech, payment infrastructure, backend engineering, and distributed systems**.
 
-<div>
-- 🌱 Proficient in front-end technologies like React, React Native, Nextjs and  Vue.js, as well as back-end technologies like Node.js, Python<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-</div>
+I'm currently building **RigePay**, a payments platform designed to simplify how African businesses collect payments, manage transactions, and operate their businesses.
 
-# 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
-<br><br>
+I care about more than making software work. I care about making it reliable, secure, maintainable, and ready for production.
 
-## Contacts
-  <div align="center"> 
-   <a href="mailto:vincentanjiri12@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-  &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/vincent-anjiri-647381192/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
- 
-</div>
+---
+
+## 🚀 What I'm Building
+
+### RigePay — Fintech Infrastructure for African Businesses
+
+Building a platform that brings payment collection, payouts, reconciliation, and business financial tools into one ecosystem.
+
+- 🔌 Payment APIs and integrations
+- 💳 Payment collection, checkout, and payouts
+- ⚙️ Asynchronous processing and distributed workers
+- 📊 Transaction management and financial insights
+- 🔐 Payment security, fraud prevention, and risk controls
+- 🤖 AI-powered financial tools and Model Context Protocol (MCP) integrations
+
+🌐 **Website:** [rigepay.co.ke](https://rigepay.co.ke)  
+📚 **Developer API:** [api.rigepay.co.ke](https://api.rigepay.co.ke/api/v1)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Frontend & Mobile**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Infrastructure & Engineering**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Areas of interest**
+
+- Software architecture and API design
+- Distributed systems and asynchronous processing
+- Payment integrations and financial infrastructure
+- Database design and performance optimization
+- Application security and fraud prevention
+- AI integrations, LLM-powered tools, and MCP servers
+
+---
+
+## 💡 How I Approach Engineering
+
+- **Reliability first:** Financial systems need predictable behavior and strong failure handling.
+- **Security by design:** Authentication, authorization, validation, and transaction integrity matter.
+- **Practical architecture:** I prefer systems that solve the current problem without creating unnecessary complexity.
+- **Production mindset:** Testing, observability, maintainability, and clear documentation are part of the engineering work.
+- **Continuous learning:** I learn by building, investigating difficult problems, and improving systems in real-world conditions.
+
+---
+
+## 🌍 Beyond the Code
+
+I'm interested in the intersection of technology, financial inclusion, and entrepreneurship—particularly how better infrastructure can help African businesses operate more efficiently.
+
+My long-term goal is to build technology that makes complex financial systems more accessible to businesses and developers.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with software engineers, fintech founders, developers, and people building useful technology.
+
+- 🌐 **RigePay:** [rigepay.co.ke](https://rigepay.co.ke)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- 💻 **GitHub:** You're already here!
+
+---
+
+*Building useful things. Solving real problems. One system at a time.*
